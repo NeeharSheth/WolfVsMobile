@@ -1,0 +1,19 @@
+#azzure_results_div, #mobilenet_results_div{
+    visibility: hidden;
+    line-height: 30px;
+}
+
+h1{
+    color:crimson;
+    font-family: 'Bebas Neue', cursive;
+    background-color: lightpink;
+}
+
+body{
+    background-color:palevioletred;
+    color: turquoise;
+}
+
+#wolfram_results, #mobilenet_results{
+    color: darkcyan;
+}
