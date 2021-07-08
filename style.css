@@ -1,19 +1,25 @@
-#azzure_results_div, #mobilenet_results_div{
+#mobilenet_results_div, #azzure_results_div, #conclusion_results_div{
+    font-size: 30px;
     visibility: hidden;
-    line-height: 30px;
 }
 
-h1{
-    color:crimson;
+#mobilenet_header, #wolfram_header{
+ font-size: 30px;
+}
+
+h1 {
+    color: crimson;
     font-family: 'Bebas Neue', cursive;
     background-color: lightpink;
 }
 
-body{
-    background-color:palevioletred;
+body {
+    background-color: palevioletred;
     color: turquoise;
+    font-size: 30px;
 }
 
-#wolfram_results, #mobilenet_results{
+#wolfram_results,
+#mobilenet_results, #conclusion_results {
     color: darkcyan;
 }
